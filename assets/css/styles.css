@@ -1,2 +1,14 @@
 /* ======= GOOGLE FONTS ======== */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;1,400;1,500&display=swap');
+/* ======= VARIABLES CSS ====== */
+:root {
+    --header-height: 3rem;
+
+    /* ====== Colors ====== */
+    --first-color: #FCA4A6;
+    --first-color-dark: #C1576A;
+    --first-color-darken: #A83E51;
+    --white-color: #FCF8F8;
+
+    /* ====== Font and Typography */
+}
