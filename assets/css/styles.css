@@ -14,4 +14,19 @@
     --body-font: 'Poppins', sans-serif;
     --big-font-size: 2.5rem;
     --normal-font-size: .938rem;
+
+    /* ====== z index ======= */
+    --z-fixed: 100;
+}
+
+@media screen and (min-width: 768px) {
+    :root {
+        --big-font-size: 5rem;
+        --normal-font-size: 1rem;
+    }
+}
+
+/*===== BASE ====*/
+*,::before,::after {
+    box-sizing: border-box;
 }
