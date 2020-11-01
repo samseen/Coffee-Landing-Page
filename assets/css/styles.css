@@ -110,3 +110,16 @@ img {
 .nav__item {
     margin-bottom: 2rem;
 }
+
+.nav__close, .nav__link, .nav__logo, .nav__toggle {
+    color: var(--white-color);
+}
+
+.nav__link:hover {
+    color: var(--first-color-dark);
+}
+
+.nav__toggle {
+    font-size: 1.5rem;
+    cursor: pointer;
+}
