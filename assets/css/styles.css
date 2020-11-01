@@ -107,4 +107,6 @@ img {
     cursor: pointer;
 }
 
-.nav__item
+.nav__item {
+    margin-bottom: 2rem;
+}
