@@ -89,7 +89,7 @@ img {
     .nav_menu {
         position: fixed;
         top: 0;
-        right: 0;
+        right: -100%;
         width: 70%;
         height: 100%;
         padding: 3.5rem 1.5rem 0;
@@ -122,4 +122,9 @@ img {
 .nav__toggle {
     font-size: 1.5rem;
     cursor: pointer;
+}
+
+/* Show menu */
+.show {
+    right: 0;
 }
