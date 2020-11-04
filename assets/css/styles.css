@@ -203,4 +203,13 @@ img {
         margin-left: 3rem;
         margin-bottom: 0;
     }
+
+    .home__container {
+        height: 100vh;
+        grid-template-columns: repeat(2, max-content);
+        grid-template-rows: 1fr;
+        row-gap: 0;
+        align-items: center;
+        justify-self: center;
+    }
 }
