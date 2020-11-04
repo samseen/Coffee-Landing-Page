@@ -140,3 +140,18 @@ img {
     grid-template-rows: repeat(2, max-content);
     row-gap: 1.5rem;
 }
+
+.home__img {
+    position: relative;
+    padding-top: 1.5rem;
+    justify-self: center;
+    width: 302px;
+    height: 233px;
+}
+
+.home__img img {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+/*===== MEDIA QUERIES =====*/
