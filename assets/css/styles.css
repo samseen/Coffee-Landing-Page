@@ -86,7 +86,7 @@ img {
 }
 
 @media screen and (max-width: 768px) {
-    .nav_menu {
+    .nav__menu {
         position: fixed;
         top: 0;
         right: -100%;
@@ -126,7 +126,7 @@ img {
 
 /* Show menu */
 .show {
-    right: 0;
+    right: 0 !important;
 }
 
 /*===== HOME =====*/
