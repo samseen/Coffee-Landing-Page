@@ -219,7 +219,7 @@ img {
         height: 289px;
     }
 
-    .home__img {
-        
+    .home__img img {
+        width: 375px;
     }
 }
