@@ -212,4 +212,14 @@ img {
         align-items: center;
         justify-self: center;
     }
+
+    .home__img {
+        order: 1;
+        width: 375px;
+        height: 289px;
+    }
+
+    .home__img {
+        
+    }
 }
