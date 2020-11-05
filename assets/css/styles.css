@@ -234,4 +234,9 @@ img {
         justify-content: initial;
         column-gap: 4.5rem;
     }
+
+    .home__img {
+        width: 604px;
+        height: 446px;
+    }
 }
