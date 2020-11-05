@@ -223,3 +223,15 @@ img {
         width: 375px;
     }
 }
+
+@media screen and (min-width: 1024px) {
+    .bd-grid {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .home__container {
+        justify-content: initial;
+        column-gap: 4.5rem;
+    }
+}
