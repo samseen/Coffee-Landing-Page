@@ -12,3 +12,10 @@ toggleMenu.addEventListener('click', ()=>{
 closeMenu.addEventListener('click', ()=>{
     navMenu.classList.remove('show')
 })
+
+/*===== MOUSEMOVE HOME IMG =====*/
+document.addEventListener('mousemove', move)
+
+function move(e) {
+    this.querySelectorAll('.move')
+}
