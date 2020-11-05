@@ -239,4 +239,8 @@ img {
         width: 604px;
         height: 446px;
     }
+
+    .home__img img {
+        width: 604px;
+    }
 }
